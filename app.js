@@ -7,3 +7,4 @@ function updateProfile(userData) { console.log('Profile updated'); }
 // Fixed typo in sidebar
 // Added user stats cards
 // Improved dashboard styling
+test without proper format
