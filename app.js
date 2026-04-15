@@ -2,8 +2,8 @@ function processPayment(amount) { console.log('Payment of $' + amount + ' proces
 
 function updateProfile(userData) { console.log('Profile updated'); }
 //(feat: implement user profile management)
-Added dashboard layout structure
-Added sidebar navigation
-Fixed typo in sidebar
-Added user stats cards
-Improved dashboard styling
+// Added dashboard layout structure
+// Added sidebar navigation
+// Fixed typo in sidebar
+// Added user stats cards
+// Improved dashboard styling
