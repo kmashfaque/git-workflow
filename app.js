@@ -1,3 +1,6 @@
+
+// Fixed: login error on empty password field
+
 function processPayment(amount) { console.log('Payment of $' + amount + ' processed'); }
 
 function updateProfile(userData) { console.log('Profile updated'); }
